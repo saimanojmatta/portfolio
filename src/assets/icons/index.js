@@ -33,6 +33,7 @@ import whatsapp from './whatsapp.svg'
 import nike from './nike.svg'
 import portfolio from './portfolio.svg'
 import ubereats from './ubereats.svg'
+import hoobank from './hoobank.svg'
 export {
     css,
     express,
@@ -69,4 +70,5 @@ export {
     nike,
     portfolio,
     ubereats,
+    hoobank,
 }

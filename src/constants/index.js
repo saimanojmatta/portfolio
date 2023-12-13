@@ -28,6 +28,7 @@ import {
     nike,
     portfolio,
     ubereats,
+    hoobank,
     
    
     
@@ -147,6 +148,7 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+    
 ];
 
 export const socialLinks = [
@@ -174,7 +176,15 @@ export const projects = [
         name: 'Nike Shoe&Sneakers Clone',
         description: "Designed and developed a fully responsive Nike shoe application using React and Tailwind CSS. Optimized application performance for seamless user experience across all devices.",
         link: 'https://nikeshopping.netlify.app/',
-        code:'https://github.com/adrianhajdin/pricewise',
+        code:'https://github.com/saimanojmatta/nikeshopping',
+    },
+    {
+        iconUrl: hoobank,
+        theme: 'btn-back-yellow',
+        name: 'HooBank Cards & Services',
+        description: "Powered by React JS and Tailwind CSS, the Hoobank service app delivers a captivating frontend experience. Its impressive UI/UX design prioritizes user convenience and visual appeal",
+        link: 'https://hoobankingservices.netlify.app/',
+        code:'https://github.com/saimanojmatta/Hoobank',
     },
     {
         iconUrl: portfolio ,
@@ -184,7 +194,7 @@ export const projects = [
         link: 'https://3rjsportfolio.netlify.app/',
         code:'https://github.com/saimanojmatta/portfolio',
         
-    },
+    }, 
     {
         iconUrl:ubereats,
         theme:'btn-back-pink',
