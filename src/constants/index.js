@@ -191,7 +191,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'Portfolio Website',
         description: 'Built a captivating 3D portfolio website using Three.js for interactive animations and immersive visuals.Crafted a responsive and visually appealing portfolio website using Tailwind CSS .',
-        link: 'https://3rjsportfolio.netlify.app/',
+        link: 'https://3jsrportfolio.netlify.app/',
         code:'https://github.com/saimanojmatta/portfolio',
         
     }, 
