@@ -19,7 +19,7 @@ const About = () => {
         <p>For a detailed overview of my skills and achievements, you can find my resume down and connect with me on Social Media </p>
       </div>
       <div className='m-5 flex gap-20 '>
-        <a href="https://drive.google.com/file/d/1Ruk7ktUmH7E_saJkjwcX_9l2DFTS5oOM/view" target='_blank' className='btn'>
+        <a href="https://drive.google.com/file/d/1SVGWLjJyIJeYJwYeYBVQOeBkqZZWkMQH/view" target='_blank' className='btn'>
           Resume
           </a>
           <div className='flex gap-6 justify-center items-center'>
