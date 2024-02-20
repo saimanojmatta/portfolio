@@ -29,6 +29,7 @@ import {
     portfolio,
     ubereats,
     hoobank,
+    realestate,
     
    
     
@@ -90,6 +91,16 @@ export const skills = [
         imageUrl: github,
         name: "GitHub",
         type: "Version Control",
+    },
+    {
+        imageUrl: express,
+        name: "Express",
+        type: "Backend",
+    },
+    {
+        imageUrl: mongodb,
+        name: "Mongodb",
+        type: "Backend",
     },
     
     
@@ -170,6 +181,14 @@ export const socialLinks = [
 ];
 
 export const projects = [
+    {
+        iconUrl: realestate,
+        theme: 'btn-back-orange',
+        name: 'FullStack Real Estate Application',
+        description: "Built a comprehensive real-estate application utilizing the MERN stack A  set of features icludeded user authentication using JWT,Dynamic Searching and filtering versatile listing.",
+        link: 'https://mern-estate-59vv.onrender.com/',
+        code:'https://github.com/saimanojmatta/mern_estate',
+    },
     {
         iconUrl: nike,
         theme: 'btn-back-red',

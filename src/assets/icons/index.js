@@ -34,6 +34,7 @@ import nike from './nike.svg'
 import portfolio from './portfolio.svg'
 import ubereats from './ubereats.svg'
 import hoobank from './hoobank.svg'
+import realestate from './realestate.svg'
 export {
     css,
     express,
@@ -71,4 +72,5 @@ export {
     portfolio,
     ubereats,
     hoobank,
+    realestate,
 }
