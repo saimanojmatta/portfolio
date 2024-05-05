@@ -30,23 +30,37 @@ import {
     ubereats,
     hoobank,
     realestate,
-    
-   
+    PostgreSql,
+    Zoomvideo,
     
 } from "../assets/icons";
 
 export const skills = [
     {
-        imageUrl: html,
-        name: "HTML",
+        imageUrl: nextjs,
+        name: "Nextjs",
         type: "Frontend",
     },
     {
-        imageUrl: css,
-        name: "CSS",
+        imageUrl: react,
+        name: "React",
         type: "Frontend",
     },
-    
+    {
+        imageUrl: redux,
+        name: "Redux",
+        type: "State Management",
+    },
+    {
+        imageUrl: typescript,
+        name: "JavaScript",
+        type: "Frontend",
+    },
+    {
+        imageUrl: javascript,
+        name: "JavaScript",
+        type: "Frontend",
+    },
     {
         imageUrl: tailwindcss,
         name: "Tailwind CSS",
@@ -58,39 +72,20 @@ export const skills = [
         type:'Frontend'
 
     },
-    
     {
-        imageUrl: javascript,
-        name: "JavaScript",
-        type: "Frontend",
-    },
-
-    
-    {
-        imageUrl: react,
-        name: "React",
+        imageUrl: html,
+        name: "HTML",
         type: "Frontend",
     },
     {
-        imageUrl: redux,
-        name: "Redux",
-        type: "State Management",
+        imageUrl: css,
+        name: "CSS",
+        type: "Frontend",
     },
-    
     {
         imageUrl: nodejs,
         name: "Node.js",
         type: "Backend",
-    },
-    {
-        imageUrl: git,
-        name: "Git",
-        type: "Version Control",
-    },
-    {
-        imageUrl: github,
-        name: "GitHub",
-        type: "Version Control",
     },
     {
         imageUrl: express,
@@ -101,6 +96,22 @@ export const skills = [
         imageUrl: mongodb,
         name: "Mongodb",
         type: "Backend",
+    },
+    {
+        imageUrl: PostgreSql,
+        name: "Mongodb",
+        type: "Backend",
+    },
+
+    {
+        imageUrl: git,
+        name: "Git",
+        type: "Version Control",
+    },
+    {
+        imageUrl: github,
+        name: "GitHub",
+        type: "Version Control",
     },
     
     
@@ -181,6 +192,15 @@ export const socialLinks = [
 ];
 
 export const projects = [
+
+    {
+        iconUrl: Zoomvideo,
+        theme: 'btn-back-black',
+        name: 'Nextjs Video Conferencing APP',
+        description: "Developed a full-stack video conferencing application inspired by Zoom using Next.js for a smooth.Integrated Stream Audio & Video SDK for real-time audio/video communication",
+        link: 'https://zoom-clone-pj9ymqjuf-manojs-projects-5458f36c.vercel.app/',
+        code:'https://github.com/saimanojmatta/Zoom-clone',
+    },
     {
         iconUrl: realestate,
         theme: 'btn-back-orange',

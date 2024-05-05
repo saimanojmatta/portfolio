@@ -35,6 +35,8 @@ import portfolio from './portfolio.svg'
 import ubereats from './ubereats.svg'
 import hoobank from './hoobank.svg'
 import realestate from './realestate.svg'
+import PostgreSql from './PostgreSql.svg'
+import Zoomvideo from './Zoomvideo.svg'
 export {
     css,
     express,
@@ -73,4 +75,6 @@ export {
     ubereats,
     hoobank,
     realestate,
+    PostgreSql,
+    Zoomvideo
 }
