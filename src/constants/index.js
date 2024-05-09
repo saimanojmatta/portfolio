@@ -198,7 +198,7 @@ export const projects = [
         theme: 'btn-back-black',
         name: 'Nextjs Video Conferencing APP',
         description: "Developed a full-stack video conferencing application inspired by Zoom using Next.js for a smooth.Integrated Stream Audio & Video SDK for real-time audio/video communication",
-        link: 'https://zoom-clone-pj9ymqjuf-manojs-projects-5458f36c.vercel.app/',
+        link: 'https://zoom-clone-eta-self.vercel.app/',
         code:'https://github.com/saimanojmatta/Zoom-clone',
     },
     {
